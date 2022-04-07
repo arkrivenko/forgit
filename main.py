@@ -17,4 +17,5 @@ x = int(input('Введите значение х: '))
 while x != 5:
     print('Неудача, не то число, которое должно быть!')
     x = int(input('Введите его заново: '))
+print('Молодец! Ты прошел испытание!')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
