@@ -19,3 +19,4 @@ while x != 5:
     x = int(input('Введите его заново: '))
 print('Молодец! Ты прошел испытание!')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print('he hi ho')
