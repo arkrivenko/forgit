@@ -13,7 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-x = int(input('Введите значение х: '))
+x = int(input('Введите значение y: '))
 while x != 5:
     print('Неудача, не то число, которое должно быть!')
     x = int(input('Введите его заново: '))
